@@ -8,4 +8,14 @@ public class Devi {
 	{
 		System.out.println("Devika");
 	}
+	@Test
+	public static void devikakatta() 
+	{
+		System.out.println("Devikakatta");
+	}
+	@Test
+	public static void devikanaveen() 
+	{
+		System.out.println("Devikanaveenkatta");
+	}
 }
