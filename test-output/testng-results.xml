@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-01T22:41:55 IST" name="Suite" finished-at="2023-08-01T22:41:55 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2023-08-01T22:41:55 IST" name="Test" finished-at="2023-08-01T22:41:55 IST" duration-ms="80">
+      <class name="katta.NaveenKatta">
+        <test-method signature="Naveen()[pri:0, instance:katta.NaveenKatta@537f60bf]" started-at="2023-08-01T22:41:55 IST" name="Naveen" finished-at="2023-08-01T22:41:55 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Naveen -->
+      </class> <!-- katta.NaveenKatta -->
+      <class name="katta.Devi">
+        <test-method signature="devika()[pri:0, instance:katta.Devi@1ed6388a]" started-at="2023-08-01T22:41:55 IST" name="devika" finished-at="2023-08-01T22:41:55 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- devika -->
+      </class> <!-- katta.Devi -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
