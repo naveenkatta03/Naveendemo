@@ -18,4 +18,14 @@ public class Devi {
 	{
 		System.out.println("Devikanaveenkatta");
 	}
+	@Test
+	public static void devika1naveen() 
+	{
+		System.out.println("Devikanaveenkatta");
+	}
+	@Test
+	public static void devika2naveen() 
+	{
+		System.out.println("Devikanaveenkatta");
+	}
 }
